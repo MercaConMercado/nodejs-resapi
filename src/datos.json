@@ -1,0 +1,14 @@
+[
+    {
+        "id":"1",
+        "titulo": "La sopa",
+        "year":"1996",
+        "opinion": "7.0"
+    },
+    {
+        "id":"2",
+        "titulo": "compadres",
+        "year":"1896",
+        "opinion": "9.0"
+    }
+]
